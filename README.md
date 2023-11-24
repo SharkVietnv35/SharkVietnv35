@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viet
 ============================================================================================================================
 
-android developer
+I'm a android developer
 -----------------
 
 I am an experienced Android developer, proficient in both Java and Kotlin. With a solid foundation in software development, I specialize in crafting high-quality mobile applications that deliver exceptional user experiences. Throughout my career, I have successfully designed and implemented various features, contributing to the overall success of the applications I've worked on. I am passionate about staying up-to-date with the latest advancements in the Android ecosystem, ensuring that the apps I develop are always at the forefront of innovation. Collaboration and problem-solving are at the core of my approach. I enjoy tackling challenges, whether it's optimizing code for performance or finding creative solutions to complex problems. I thrive in dynamic environments and am always eager to take on new projects that push the boundaries of what's possible in the world of Android development. Let's connect and discuss how my skills and experience can contribute to the success of your next mobile application! 🚀 
